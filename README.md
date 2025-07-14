@@ -4,6 +4,10 @@ Link para o projeto [aqui](https://g7p4lz.csb.app/)
 
 Descrição curta (1–2 frases) sobre o que o projeto faz.
 
+<p align="center">
+  <img alt="projeto DevLinks" src="/src/img/react-kanban.jpg" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 * **React.js** (biblioteca JavaScript para criar interfaces)
